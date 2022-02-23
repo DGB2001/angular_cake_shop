@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build_product": "ng build --base-href /AngularShop/ --configuration production",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
